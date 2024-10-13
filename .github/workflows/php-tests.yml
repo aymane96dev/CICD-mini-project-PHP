@@ -26,3 +26,6 @@ jobs:
       - name: Run tests
         run: ./vendor/bin/phpunit tests/*
 
+      - name: Run PHP_CodeSniffer
+        run: ./vendor/bin/phpcs --standard=PSR12 tests/*
+
