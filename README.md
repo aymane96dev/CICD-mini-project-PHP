@@ -23,15 +23,15 @@ To get started with this project, ensure you have the following installed:
 
 1. Clone the repository:
 
-`git clone https://github.com/aymane96dev/CICD-mini-project-PHP.git`
+   `git clone https://github.com/aymane96dev/CICD-mini-project-PHP.git`
 
 2. Navigate to the project directory:
 
-`cd CICD-mini-project-PHP.git`
+   `cd CICD-mini-project-PHP.git`
 
 3. Install PHP dependencies using Composer:
 
-`composer install`
+   `composer install`
 
 ---
 
@@ -85,7 +85,8 @@ Contributions are welcome! Please follow these steps:
 5. Push to the branch (git push origin feature/your-feature-name).
 
 6. Open a **pull request** to the main branch.
-   
+
+---
 
 **License** 📝
 
